@@ -1,4 +1,4 @@
-# Sharlando (Charlae) Forbes
+# Sharlando Forbes
 
 **IT program and controls work — the analysis between auditors, engineers, and management.**
 
@@ -7,8 +7,8 @@ hand: compliance assessment, financial controls testing, and cloud cost accounta
 Eight-plus years across military IT operations, financial operations, and consumer goods
 manufacturing, currently based in Rochester, NY.
 
-M.S. Information Technology Management · PMP · Security+ · Active Secret Clearance ·
-U.S. Army Reservist and veteran
+M.S. Information Technology Management · PMP · Security+ · Network+ · Active Secret Clearance ·
+U.S. Army Veteran
 
 ---
 
@@ -78,7 +78,6 @@ rather than implying precision it does not have.
 | | |
 | --- | --- |
 | **Now** | IT operations and risk, U.S. Army Reserve |
-| **Recently** | IT Operations Lead & Risk Specialist (active duty, Fort Dix NJ) |
 | **Before that** | Accounts Receivable / Financial Operations, Refresco Beverages |
 | | Financial Analyst, Guardsman Group (Kingston, Jamaica) |
 | **Education** | M.S. Information Technology Management, WGU (2025) |
